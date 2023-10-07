@@ -4,7 +4,7 @@ I'm a passionate student pursuing a degree in Electronics and Telecommunication 
 
 ## Skills and Interests
 
-- 🔧 Proficient in C, C++, Python, and Java.
+- 🔧 Proficient in C, C++, Python and Java.
 - 🚀 Actively working on my software development skills in C, C++, Python, Java, HTML, CSS, and JavaScript.
 - 💻 Exploring the world of coding and development.
 - 🌐 Building web applications with HTML, CSS, and JavaScript.
