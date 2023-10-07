@@ -15,6 +15,4 @@ I'm a passionate student pursuing a degree in Electronics and Telecommunication 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ratnesh-kshirsagar).
 - 💬 Let's collaborate on exciting tech projects and exchange ideas.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ratnesh1253&show_icons=true&theme=radical)
-
 Feel free to explore my repositories to see what I'm currently working on. Let's connect and create amazing software together! 😄
