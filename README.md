@@ -12,7 +12,7 @@ I'm a passionate student pursuing a degree in Electronics and Telecommunication 
 
 ## Let's Connect
 
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ratnesh-kshirsagar), [Twitter](https://twitter.com/ratnesh1253).
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ratnesh1253), [Twitter](https://twitter.com/ratnesh1253).
 - 💬 Let's collaborate on exciting tech projects and exchange ideas.
 
 Feel free to explore my repositories to see what I'm currently working on. Let's connect and create amazing software together! 😄
